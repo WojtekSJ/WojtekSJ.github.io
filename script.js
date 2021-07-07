@@ -1,11 +1,11 @@
 $(document).ready(function() {
 
    
-  // const apiRoot = 'https://salty-harbor-29332.herokuapp.com/v1/task/';
-  // const trelloApiRoot = 'https://salty-harbor-29332.herokuapp.com/v1/trello/';
+   const apiRoot = 'https://salty-harbor-29332.herokuapp.com/v1/task/';
+   const trelloApiRoot = 'https://salty-harbor-29332.herokuapp.com/v1/trello/';
 
-  const apiRoot = 'http://localhost:8080/v1/';
-  const trelloApiRoot = 'http://localhost:8080/v1/trello/';
+  //const apiRoot = 'http://localhost:8080/v1/';
+  //const trelloApiRoot = 'http://localhost:8080/v1/trello/';
 
 
   const datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
