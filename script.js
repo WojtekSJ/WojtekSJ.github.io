@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
    
-   const apiRoot = 'https://salty-harbor-29332.herokuapp.com/v1/task/';
+   const apiRoot = 'https://salty-harbor-29332.herokuapp.com/v1/';
    const trelloApiRoot = 'https://salty-harbor-29332.herokuapp.com/v1/trello/';
 
   //const apiRoot = 'http://localhost:8080/v1/';
